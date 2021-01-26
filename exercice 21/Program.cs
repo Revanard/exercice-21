@@ -16,7 +16,7 @@ namespace exercice_21
             string habitant = (Console.ReadLine());
             // affichage du nom de la ville et du nombre d'habitants
 
-            Console.Write(ville + " possède"+habitant+ "habitants.");
+            Console.Write(ville + " possède"+ habitant+ "habitants.");
             Console.ReadLine();
 
 
